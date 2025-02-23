@@ -1,6 +1,4 @@
-I am sumit from delhi dwarka
-i pursue Btech compter science and engineering from usict
-# sumitoo7
+
 
 - 🔭 I’m currently working on **physical health__**
 
